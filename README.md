@@ -3,4 +3,4 @@
 
 Readme text
 
-[How to contribute](CONTRIBUTING.md) to the QED SLDC repo.
+[How to contribute](CONTRIBUTING.md) to our SLDC repo.
